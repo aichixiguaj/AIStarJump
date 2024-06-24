@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AiSports</string>
+
+    <string name="tfe_pe_tv_classification_value">- %s</string>
+</resources>
